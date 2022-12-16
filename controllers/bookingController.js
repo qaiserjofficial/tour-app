@@ -45,7 +45,6 @@ exports.getCheckoutSession = catchAsync(async (req, res, next) => {
 exports.createBookingCheckout = catchAsync(async (req, res, next) => {
   //This is only TEMPoRARY, because it is UNSECURE: Everyone can book tour withou payment with this url
   const { tour, user, price } = req.query;
-  console.log(req.query);
 
   if (!tour && !user && !price) {
     return next();

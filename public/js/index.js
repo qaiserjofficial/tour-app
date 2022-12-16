@@ -22,13 +22,10 @@ if (mapBox) {
 }
 
 if (loginForm) {
-  console.log(loginForm);
   loginForm.addEventListener('submit', (e) => {
     e.preventDefault();
-    console.log(e.target);
     const email = document.getElementById('email').value;
     const password = document.getElementById('password').value;
-    console.log(email, password);
     login(email, password);
   });
 }
@@ -38,13 +35,10 @@ if (logOutBtn) logOutBtn.addEventListener('click', logout);
 if (userDataForm)
   userDataForm.addEventListener('submit', (e) => {
     e.preventDefault();
-    console.log('User Data Form');
-    console.log(e.target);
     const form = new FormData();
     form.append('name', document.getElementById('name').value);
     form.append('email', document.getElementById('email').value);
     form.append('photo', document.getElementById('photo').files[0]);
-    console.log(form);
     updateSettings(form, 'data');
   });
 

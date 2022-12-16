@@ -8,7 +8,6 @@ const handleDuplicateFieldsDB = (err) => {
   const {
     keyValue: { name },
   } = err;
-  console.log(err);
   const errstring = `'${err.keyValue.name}'`;
   const value = errstring.match(/(["'])(?:(?=(\\?))\2.)*?\1/)[0];
   const message = `Duplicate fields values:${value}. Please use another value instead!`;

@@ -45,7 +45,6 @@ exports.signup = catchAsync(async (req, res, next) => {
     role: req.body.role,
   });
   const url = `${req.protocol}://${req.get('host')}/me`;
-  console.log(url);
   await new Email(newUser, url).sendWelcome();
   createSendToken(newUser, 201, res);
 });
@@ -58,8 +57,6 @@ exports.login = catchAsync(async (req, res, next) => {
   }
   //2) Check if user exsits && password is correct
   const user = await User.findOne({ email }).select('+password'); // here select is used to explicitly get the password wkithout showing it to the client for logic building
-  console.log(user);
-
   if (!user || !(await user.correctPassword(password, user.password))) {
     return next(new AppError('Incorrect email or password', 401));
   }
@@ -221,7 +218,6 @@ exports.updatePassword = catchAsync(async (req, res, next) => {
   //1) Get user from collection
   const user = await User.findById(req.user.id).select('+password');
   //2) Check if posted current password is correct
-  console.log(req.body.passwordCurrent);
   if (!(await user.correctPassword(req.body.passwordCurrent, user.password))) {
     return next(new AppError('Your current password is incorrect', 401));
   }
