@@ -1,0 +1,111 @@
+[{
+  "_id": {
+    "$oid": "639c55b98a03cd06905e67d4"
+  },
+  "photo": "user-639c55b98a03cd06905e67d4-1671190160330.jpeg",
+  "role": "admin",
+  "active": true,
+  "name": "Qaiser",
+  "email": "admin@natours.com",
+  "password": "$2a$12$aK.QjWNp7JZHRFt5ddYHiO4NWNk3q0GXgCD04YMLt20Ow7nrmijqC",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639c56f89136d645c0684552"
+  },
+  "photo": "default.jpg",
+  "role": "user",
+  "active": true,
+  "name": "Ameer Hamza",
+  "email": "hamza@example.com",
+  "password": "$2a$12$eIMBhGAKQr/z21AxfHO2rezROH3OU2an3ciQ51IKtLAkA6nM/XLWO",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639c57a49136d645c0684554"
+  },
+  "photo": "default.jpg",
+  "role": "user",
+  "active": true,
+  "name": "Faisal Fraz",
+  "email": "faisal@example.com",
+  "password": "$2a$12$oRQtT/40owqdXeTB53JrJeeLFgDAygqYtrxacGT8NwYOzb4IiPW.O",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639c57bd9136d645c0684556"
+  },
+  "photo": "default.jpg",
+  "role": "user",
+  "active": true,
+  "name": "Abdul Qadeer",
+  "email": "qadeer@example.com",
+  "password": "$2a$12$iGVRINuUID5RKdaJq2W8Guc3Yj/Ei3etqbJOYctGvR23kLFHC.t/m",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639c57d19136d645c0684558"
+  },
+  "photo": "default.jpg",
+  "role": "user",
+  "active": true,
+  "name": "Hammad Munir",
+  "email": "hammad@example.com",
+  "password": "$2a$12$2P8/ojM9/h4Up0eSsVghMeKPC/WFK2vMc8CD9/0azsyMXWaFzN/XC",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639c57e69136d645c068455a"
+  },
+  "photo": "default.jpg",
+  "role": "user",
+  "active": true,
+  "name": "Mohsin Fraz",
+  "email": "mohsin@example.com",
+  "password": "$2a$12$wauUZN9I4Cm4nVHJwc10pe6T.stvKD2JNs.zsl8Q9OOW8WUePFxZi",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639c581e9136d645c068455c"
+  },
+  "photo": "default.jpg",
+  "role": "user",
+  "active": true,
+  "name": "Husnain Javed",
+  "email": "husnain@example.com",
+  "password": "$2a$12$n7efFav/FA6i0HbufRKwi.Rblwov8WlvJ/wnOYyB1FUTSNZfaDLhq",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639c58389136d645c068455e"
+  },
+  "photo": "default.jpg",
+  "role": "user",
+  "active": true,
+  "name": "Manzoor Ahmed",
+  "email": "manzoor@example.com",
+  "password": "$2a$12$HBi.JE5in04BzWIOsDVj8OAGDRrjoxsVuH7EblwEJVq.Fwuj75BZe",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639c58609136d645c0684560"
+  },
+  "photo": "default.jpg",
+  "role": "user",
+  "active": true,
+  "name": "Nimra Nisar",
+  "email": "nimra@example.com",
+  "password": "$2a$12$WodMCqlWHQWdjkBs5RTmLOqStx3ZSOax0p8V7dyAsCLzyQ0fULY4y",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639c58819136d645c0684562"
+  },
+  "photo": "default.jpg",
+  "role": "admin",
+  "active": true,
+  "name": "Mubashir Hassan",
+  "email": "mubashir@example.com",
+  "password": "$2a$12$wO0L4yKhun.20Qg2kHfEH.EuuG286JXssaGFce4BETiS53jHxrvIm",
+  "__v": 0
+}]
