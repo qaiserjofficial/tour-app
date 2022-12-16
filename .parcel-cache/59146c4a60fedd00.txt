@@ -1,5 +1,5 @@
 21529
-60C:\Users\qaise\OneDrive\Desktop\4-natours\starter\.gitignore133156797620537997 0
+60C:\Users\qaise\OneDrive\Desktop\4-natours\starter\.gitignore133156820740691477 0
 91C:\Users\qaise\OneDrive\Desktop\4-natours\starter\node_modules\es-abstract\2015\ToObject.js133144482478146611 0
 74C:\Users\qaise\OneDrive\Desktop\4-natours\starter\node_modules\cross-spawn133144482332212902 1
 125C:\Users\qaise\OneDrive\Desktop\4-natours\starter\node_modules\sharp\vendor\8.13.3\win32-x64\include\orc-0.4\orc\orcx86insn.h133117882010000000 0
@@ -8,7 +8,7 @@
 115C:\Users\qaise\OneDrive\Desktop\4-natours\starter\public\img\users\user-639ac528daa50b2830281624-1671087521324.jpeg133155611213276734 0
 99C:\Users\qaise\OneDrive\Desktop\4-natours\starter\node_modules\core-js-pure\stable\date\set-year.js133144482528467472 0
 77C:\Users\qaise\OneDrive\Desktop\4-natours\starter\node_modules\mpath\Makefile133144632671551853 0
-62C:\Users\qaise\OneDrive\Desktop\4-natours\starter\package.json133156809880276071 0
+62C:\Users\qaise\OneDrive\Desktop\4-natours\starter\package.json133156835258909520 0
 88C:\Users\qaise\OneDrive\Desktop\4-natours\starter\node_modules\es-to-primitive\.eslintrc133144482307672145 0
 89C:\Users\qaise\OneDrive\Desktop\4-natours\starter\node_modules\typedarray\readme.markdown133155015698010529 0
 96C:\Users\qaise\OneDrive\Desktop\4-natours\starter\node_modules\csso\lib\replace\property\font.js133154086294528132 0
@@ -45,7 +45,7 @@
 74C:\Users\qaise\OneDrive\Desktop\4-natours\starter\node_modules\safe-buffer133143493069948367 1
 114C:\Users\qaise\OneDrive\Desktop\4-natours\starter\node_modules\node-abi\node_modules\semver\functions\satisfies.js133155613622631018 0
 95C:\Users\qaise\OneDrive\Desktop\4-natours\starter\node_modules\es-abstract\2016\IsExtensible.js133144482445398783 0
-56C:\Users\qaise\OneDrive\Desktop\4-natours\starter\app.js133156810823916424 0
+56C:\Users\qaise\OneDrive\Desktop\4-natours\starter\app.js133156864593641506 0
 86C:\Users\qaise\OneDrive\Desktop\4-natours\starter\node_modules\@types\node\module.d.ts133144632708978411 0
 105C:\Users\qaise\OneDrive\Desktop\4-natours\starter\node_modules\posthtml-parser\dist\location-tracker.d.ts133154086194587190 0
 84C:\Users\qaise\OneDrive\Desktop\4-natours\starter\node_modules\browserslist\index.js133154086174574673 0
@@ -207,7 +207,7 @@
 113C:\Users\qaise\OneDrive\Desktop\4-natours\starter\node_modules\dom-serializer\node_modules\entities\lib\encode.js133154086164263072 0
 91C:\Users\qaise\OneDrive\Desktop\4-natours\starter\node_modules\@parcel\workers\package.json133154086349029992 0
 75C:\Users\qaise\OneDrive\Desktop\4-natours\starter\node_modules\loose-envify133144482328472938 1
-59C:\Users\qaise\OneDrive\Desktop\4-natours\starter\server.js133152986096209624 0
+59C:\Users\qaise\OneDrive\Desktop\4-natours\starter\server.js133156870304227574 0
 67C:\Users\qaise\OneDrive\Desktop\4-natours\starter\node_modules\bson133144632704937661 1
 120C:\Users\qaise\OneDrive\Desktop\4-natours\starter\node_modules\html-to-text\node_modules\domutils\lib\esm\index.d.ts.map133155864124426921 0
 85C:\Users\qaise\OneDrive\Desktop\4-natours\starter\node_modules\is-shared-array-buffer133144482331992036 1
@@ -21524,7 +21524,7 @@
 81C:\Users\qaise\OneDrive\Desktop\4-natours\starter\dev-data\data\tours-simple.json133145291822128134 0
 74C:\Users\qaise\OneDrive\Desktop\4-natours\starter\dev-data\data\tours.json133156762512256162 0
 74C:\Users\qaise\OneDrive\Desktop\4-natours\starter\dev-data\data\users.json133156644350783699 0
-79C:\Users\qaise\OneDrive\Desktop\4-natours\starter\controllers\authController.js133156812720895088 0
+79C:\Users\qaise\OneDrive\Desktop\4-natours\starter\controllers\authController.js133156878857248867 0
 79C:\Users\qaise\OneDrive\Desktop\4-natours\starter\controllers\handlerFactory.js133155837741446305 0
 79C:\Users\qaise\OneDrive\Desktop\4-natours\starter\controllers\tourController.js133156812316878571 0
 80C:\Users\qaise\OneDrive\Desktop\4-natours\starter\controllers\viewsController.js133156487422722337 0
