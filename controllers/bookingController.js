@@ -22,6 +22,7 @@ exports.getCheckoutSession = catchAsync(async (req, res, next) => {
     client_reference_id: req.params.tourId,
     line_items: [
       {
+        quantity: 1,
         price_data: {
           currency: 'usd',
           unit_amount: tour.price * 100,
@@ -29,7 +30,6 @@ exports.getCheckoutSession = catchAsync(async (req, res, next) => {
             name: `${tour.name} Tour`,
             description: tour.summary,
             images: [`https://www.natours.dev/img/tours/${tour.imageCover}`],
-            quantity: 1,
           },
         },
       },
